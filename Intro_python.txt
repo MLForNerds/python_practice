@@ -1,0 +1,24 @@
+Introduction to python:
+
+Python is interpreted: Python is processed ayt runtime by the interpreter. You do not need to compile your program before executing it. This is similar to perl and php.
+
+Python is Interactive: You can write interactive programs with python.
+
+Python is Object Oriented
+
+Beginner's language.
+
+Inventor: Guido van Rossum, late 80's and 90's.
+
+Python features:
+	Easy to learn
+	Easy to read
+	Easy to maintain
+	A broad standard library
+	interactive mode
+	portable
+	extendable
+	databases
+	gui programming
+	scalable
+
